@@ -1,6 +1,6 @@
 {
-  "homepage": "http://kelleyfraser.github.io/get-skill-quote-machine/",
-  "name": "get-skill-quote-machine",
+  "homepage": "http://kelleyfraser.github.io/quote-machine/",
+  "name": "quote-machine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
